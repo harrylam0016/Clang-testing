@@ -1,0 +1,19 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.VC.db
+*.vscode/
+
+# Ignore build artifacts
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.ipch
+*.log
+
+# Ignore CMake cache
+CMakeFiles/
+CMakeCache.txt
