@@ -1,0 +1,39 @@
+# === Visual Studio build folders ===
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.pdb
+*.log
+*.tlog
+*.ilk
+*.obj
+*.cache
+*.tmp
+*.sdf
+
+# === Build output folders ===
+Debug/
+Release/
+x64/
+x86/
+
+# === Qt auto-generated files ===
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+*.qmake.stash
+*.qmake.*
+*.pro.user
+*.cbt
+*.qml
+*.props.txt
+*.vcxproj.user
+qtvars.*
+*_autogen/
+*_build/
+
+# === CMake (nếu có) ===
+CMakeFiles/
+CMakeCache.txt
