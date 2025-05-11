@@ -1,19 +1,26 @@
-# Ignore Visual Studio temporary files
+# Visual Studio temp files
 .vs/
-*.user
 *.suo
+*.user
 *.VC.db
-*.vscode/
+*.VC.opendb
+*.tlog
+*.pdb
+*.obj
+*.log
+*.cache
+*.sdf
+*.db
+*.db-shm
+*.db-wal
+*.vsidx
 
-# Ignore build artifacts
+# Build output
 Debug/
 Release/
-*.obj
-*.exe
-*.pdb
-*.ipch
-*.log
+x64/
+x86/
 
-# Ignore CMake cache
+# CMake
 CMakeFiles/
 CMakeCache.txt
