@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Student Management System
+Comment=A Qt application for managing student records
+Exec=Clang-testing
+Icon=applications-education
+Terminal=false
+Type=Application
+Categories=Education;Qt;

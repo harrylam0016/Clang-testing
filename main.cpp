@@ -1,3 +1,4 @@
+#define QT_MOC_INCLUSION
 #include "Clangtesting.h"
 #include <QtWidgets/QApplication>
 
